@@ -1,0 +1,11 @@
+body {background: #333;}
+.log-boolean,
+.log-undefined {color: magenta;}
+.log-object,
+.log-string {color: orange;font-size: 30px;}
+.log-number {color: cyan;}
+
+h1{
+    color: orange;
+    text-align: center;
+}
